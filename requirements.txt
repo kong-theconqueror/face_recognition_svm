@@ -1,0 +1,7 @@
+face_recognition
+opencv-python
+numpy
+scikit-learn==1.7.2
+notebook
+matplotlib
+pandas
