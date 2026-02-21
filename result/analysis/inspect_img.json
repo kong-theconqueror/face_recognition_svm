@@ -1,0 +1,54 @@
+{
+  "image_path": "C:\\Users\\PC-09\\Documents\\Projects\\face_recognition_svm\\test\\Aaron_peirsol-2.jpg",
+  "detect_model": "cnn",
+  "landmarks_model": "large",
+  "upsample": 0,
+  "num_faces": 1,
+  "faces": [
+    {
+      "face_index": 0,
+      "box": {
+        "top": 76,
+        "right": 199,
+        "bottom": 213,
+        "left": 62
+      },
+      "width": 137,
+      "height": 137,
+      "landmark_parts": {
+        "chin": 17,
+        "left_eyebrow": 5,
+        "right_eyebrow": 5,
+        "nose_bridge": 4,
+        "nose_tip": 5,
+        "left_eye": 6,
+        "right_eye": 6,
+        "top_lip": 12,
+        "bottom_lip": 12
+      },
+      "encoding": {
+        "shape": [
+          128
+        ],
+        "l2_norm": 1.5438022753815417,
+        "min": -0.34585437178611755,
+        "max": 0.4470401704311371,
+        "mean": -0.008518632323102793,
+        "std": 0.13618796974165287,
+        "first_10": [
+          -0.060540758073329926,
+          0.11281537264585495,
+          0.04627835378050804,
+          -0.011255092918872833,
+          -0.1891431361436844,
+          0.036253735423088074,
+          0.017251376062631607,
+          -0.03603539988398552,
+          0.10572411119937897,
+          -0.003459296189248562
+        ]
+      },
+      "landmark_total_points": 72
+    }
+  ]
+}
